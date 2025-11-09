@@ -1,0 +1,6 @@
+
+{
+  "name": "SNS",
+  "description": "A modern UI prototype for a digital product marketplace. It allows users to browse various digital products like OTT subscriptions, software tools, and courses, and add them to a cart. The product data is dynamically generated using the Gemini API.",
+  "requestFramePermissions": []
+}
